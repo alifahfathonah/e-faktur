@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+#kanal	{
+	width: 1024px;
+	height: auto;
+	float: left;	
+}
+#kanal1	{
+	height:150px;
+	width: 295px;
+	margin: 10px;
+	float:left;
+	color:#FFF;
+	font-size:50px;
+	text-align:center;
+	line-height: 1.5em;
+	font-family: "Segoe UI";
+	}
+.orange	{
+background:#ff3c00;
+}
+.biru	{
+background:#10618f;
+}
+.hijau	{
+background:#108f64;
+}
+.ungu	{
+background:#420858;
+}
+.hijaumuda	{
+background:#60a917;
+}
+.merah{
+background:#e51400;
+}
+.birulaut{
+background:#00ccff;
+}
+
+.judul_kanal{
+	font-size:18px;
+	margin-top:10px;
+}
+
+
+
+
